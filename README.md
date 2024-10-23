@@ -1,5 +1,4 @@
 # Lab-3-Railway-Reservation
-
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,8 +17,19 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-
-
-
+### Usecase Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/125afcaa-ae65-412f-86f9-57df222b4ede)
+### Sequence Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/e640dcb6-269a-40cf-883d-8f14b696d1ef)
+### State Chart Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/60dae92a-d5da-4fcb-98fc-6c92f4cad6ad)
+### Activity Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/7d397853-2c02-4a71-bad0-b892596f183f)
+### Class Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/01964e6b-3e0a-45c2-9251-499d3c8134a4)
+### Communication Diagram: 
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/2c6dab4e-130e-4ba3-b63b-3488dfc68683)
+### Package Diagram:
+![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/b6c473e8-bd11-48d8-a9c5-18c9ab692c6c)
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
